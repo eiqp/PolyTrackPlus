@@ -22,9 +22,9 @@
 # 📖 All Tracks
 ### [🥯 TiniTheBagel Tracks](https://github.com/eiqp/PolyTrackPlus#-tinithebagel-tracks-1)
 ### [💥 Challenge Tracks](https://github.com/eiqp/PolyTrackPlus#-challenge-tracks-1)
-### [🏎 Grand Prix Tracks](https://github.com/eiqp/PolyTrackPlus#-tinithebagel-tracks-1)
-### [🏎 2 Lap Grand Prix Tracks](https://github.com/eiqp/PolyTrackPlus#-tinithebagel-tracks-1)
-### [🏎 Bonus Grand Prix Tracks](https://github.com/eiqp/PolyTrackPlus#-tinithebagel-tracks-1)
+### [🏎 Grand Prix Tracks](https://github.com/eiqp/PolyTrackPlus#-grand-prix-tracks-1)
+### [🏎 2 Lap Grand Prix Tracks](https://github.com/eiqp/PolyTrackPlus#-2-lap-grand-prix-tracks-1)
+### [🏎 Bonus Grand Prix Tracks](https://github.com/eiqp/PolyTrackPlus#-bonus-grand-prix-tracks-1)
 </td>
   </tr>
 </table>
