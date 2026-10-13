@@ -20,11 +20,11 @@
     <td>  
       
 # 📖 All Tracks
-### [🥯 TiniTheBagel Tracks](https://github.com/eiqp/PolyTrackPlus/edit/main/README.md#-tinithebagel-tracks-1)
-### [💥 Challenge Tracks]()
-### [🏎 Grand Prix Tracks](https://github.com/eiqp/PolyTrackPlus/edit/main/README.md#-tinithebagel-tracks-1)
-### [🏎 2 Lap Grand Prix Tracks](https://github.com/eiqp/PolyTrackPlus/edit/main/README.md#-tinithebagel-tracks-1)
-### [🏎 Bonus Grand Prix Tracks](https://github.com/eiqp/PolyTrackPlus/edit/main/README.md#-tinithebagel-tracks-1)
+### [🥯 TiniTheBagel Tracks](https://github.com/eiqp/PolyTrackPlus#-tinithebagel-tracks-1)
+### [💥 Challenge Tracks](https://github.com/eiqp/PolyTrackPlus#-challenge-tracks-1)
+### [🏎 Grand Prix Tracks](https://github.com/eiqp/PolyTrackPlus#-tinithebagel-tracks-1)
+### [🏎 2 Lap Grand Prix Tracks](https://github.com/eiqp/PolyTrackPlus#-tinithebagel-tracks-1)
+### [🏎 Bonus Grand Prix Tracks](https://github.com/eiqp/PolyTrackPlus#-tinithebagel-tracks-1)
 </td>
   </tr>
 </table>
